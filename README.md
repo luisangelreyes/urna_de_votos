@@ -16,4 +16,6 @@ teniendo a nuestros contendientes a la grande (la presidencia), utilizé un arre
 3. Voto para claudia
 0.Cerrar casilla
 
+El "menú" anterior se mostrará mientras que no se seleccione el numero 0,
+Una vez se termina (se elige la opcion 0), se mostrará el total de votos y cuantos votos tuvo cada contendiente, incluyendo sus respectivos porcentajes.
 
